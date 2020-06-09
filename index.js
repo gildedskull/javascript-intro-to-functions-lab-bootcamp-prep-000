@@ -20,7 +20,11 @@ function logWhisper(string)
 
 function sayHiToGrandma(string)
 {
-  var 
+  var uc = "YES INDEED!"
+  var lc = "I can't hear you!"
+  var ily = "I love you, too."
+  
+  
 }
 
 
