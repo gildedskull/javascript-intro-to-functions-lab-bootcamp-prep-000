@@ -30,7 +30,7 @@ function sayHiToGrandma(string)
   else if (string.toLowerCase(string) === string) {
     return lowerCase
   }
-  else if ()
+  else if ("")
   }
 }
 
