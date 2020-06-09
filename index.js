@@ -27,7 +27,11 @@ function sayHiToGrandma(string)
   if (string.toUpperCase(string) === string) {
     return upperCase
   }
-  elsif 
+  else if (string.toLowerCase(string) === string) {
+    return lowerCase
+  }
+  else if (string.)
+  }
 }
 
 
